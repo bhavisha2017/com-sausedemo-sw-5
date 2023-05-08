@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sanity Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.525">
+  <properties />
+  
+  
+            <testcase name="verifyThatSixProductsAreDisplayedOnPage" time="0.253" classname="com.saucedemo.testsuite.LoginTest" />
+                <testcase name="userShouldLoginSuccessfullyWithValidCredentials" time="0.272" classname="com.saucedemo.testsuite.LoginTest" />
+      
+</testsuite>
